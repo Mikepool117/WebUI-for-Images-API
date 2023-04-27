@@ -36,16 +36,6 @@ Run the app
   streamlit run main.py
 ```
 
-
-## Installation
-
-Install my-project with npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
-    
 ## Tech Stack
 
 **Python:** Python 3.10.7
