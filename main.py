@@ -39,4 +39,5 @@ if st.button('Generate Image') :
                 with st.expander("View Image") :
                     st.image(response['data'][i]['url'])
     except :
+      #show this instead of an error when you hit the rate limit
         st.error("There was a problem with your request, Please try again in a minute.")
