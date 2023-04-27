@@ -7,7 +7,6 @@ openai.api_key = < ENTER YOUR API KEY HERE >
 #Setup Page Title
 st.set_page_config(
    page_title="DALL·E WebUI",
-   initial_sidebar_state="expanded"
 )
 
 #UI Components
